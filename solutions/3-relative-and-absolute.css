@@ -1,6 +1,6 @@
 .books-card {
   /* BEGIN (write your solution here) */
-
+position: relative;
   /* END */
   box-sizing: border-box;
   width: 500px;
@@ -29,7 +29,10 @@
 
 .book-description {
   /* BEGIN (write your solution here) */
-
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
   /* END */
   box-sizing: border-box;
   width: 50%;
