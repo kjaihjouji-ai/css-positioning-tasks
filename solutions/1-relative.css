@@ -48,7 +48,9 @@ h2 {
 
 .card {
   /* BEGIN (write your solution here) */
-
+position: relative;
+top: 0;
+left: 0;
   /* END */
 
   padding: 30px;
@@ -61,7 +63,8 @@ h2 {
 
 .card:hover {
   /* BEGIN (write your solution here) */
-
+top: -15px;
+left: -10px;
   /* END */
 
   color: #fff;
