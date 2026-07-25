@@ -5,7 +5,7 @@ body {
 
 .left-aside {
   /* BEGIN (write your solution here) */
-
+float: left;
   /* END */
   width: 20%;
   height: 200px;
@@ -17,7 +17,7 @@ body {
 
 .right-aside {
   /* BEGIN (write your solution here) */
-
+float: left;
   /* END */
   width: 20%;
   height: 200px;
@@ -29,7 +29,7 @@ body {
 
 main {
   /* BEGIN (write your solution here) */
-
+float: left;
   /* END */
   width: 60%;
   height: 200px;
@@ -42,7 +42,7 @@ main {
 
 footer {
   /* BEGIN (write your solution here) */
-
+clear: both;
   /* END */
   height: 120px;
 
